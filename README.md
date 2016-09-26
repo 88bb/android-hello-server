@@ -1,4 +1,4 @@
 # android-hello-server
-Demonstrate server client communication:
-client: android
+Demonstrate server client communication: \n
+client: android \n
 server: node.js
